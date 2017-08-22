@@ -1,3 +1,3 @@
 #!/bin/bash
 pwd
-sudo service httpd stop
+#sudo service httpd stop
