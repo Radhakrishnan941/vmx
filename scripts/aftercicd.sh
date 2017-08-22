@@ -7,4 +7,4 @@
 sudo service httpd start
 cd /var/www/html/vmx
 
-sudo git pull
+#sudo git pull
